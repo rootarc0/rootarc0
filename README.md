@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rootarc0
 - 👀 I’m interested in GNU/Linux
 - 🌱 I’m currently learning Bash
-- 📫 How to reach me: matrix
+- 📫 How to reach me: Mastodon
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my old account is @toorarc0
 <!---
