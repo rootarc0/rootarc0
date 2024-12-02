@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rootarc0
 - 👀 I’m interested in GNU/Linux
-- 🌱 I’m currently learning Bash
+- 🌱 I’m currently learning Golang and Rust
 - 📫 How to reach me: Mastodon & Matrix
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my old account is @toorarc0
